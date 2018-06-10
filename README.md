@@ -4,3 +4,7 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 
 For running the file - Jupyter notebook is required, Python version 3.6
+
+
+##IMPORTANT
+If the .ipynb file doesn't open - use https://nbviewer.jupyter.org/ (copy the link of the of .ipynb file and run it)
